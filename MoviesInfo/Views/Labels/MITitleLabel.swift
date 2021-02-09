@@ -1,10 +1,3 @@
-//
-//  MITitleLabel.swift
-//  MoviesInfo
-//
-//  Created by Tobias Ruano on 20/07/2020.
-//  Copyright © 2020 Tobias Ruano. All rights reserved.
-//
 
 import UIKit
 

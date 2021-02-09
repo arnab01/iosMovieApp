@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  MoviesInfo
-//
-//  Created by Tobias Ruano on 05/03/2019.
-//  Copyright © 2019 Tobias Ruano. All rights reserved.
-//
+
 
 import UIKit
 

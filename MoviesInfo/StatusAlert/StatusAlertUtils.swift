@@ -1,7 +1,4 @@
-//
-//  StatusAlert
-//  Copyright © 2017-2018 Yegor Miroshnichenko. Licensed under the MIT license.
-//
+
 
 import UIKit
 

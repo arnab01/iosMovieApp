@@ -1,10 +1,3 @@
-//
-//  MILabel.swift
-//  MoviesInfo
-//
-//  Created by Tobias Ruano on 12/07/2020.
-//  Copyright © 2020 Tobias Ruano. All rights reserved.
-//
 
 import UIKit
 

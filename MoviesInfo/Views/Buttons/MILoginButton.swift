@@ -1,10 +1,3 @@
-//
-//  MILoginButton.swift
-//  MoviesInfo
-//
-//  Created by Tobias Ruano on 17/07/2020.
-//  Copyright © 2020 Tobias Ruano. All rights reserved.
-//
 
 import UIKit
 
